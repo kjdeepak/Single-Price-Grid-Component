@@ -2,6 +2,13 @@
 
 ![Design preview for the Single Price Grid Component coding challenge](./design/desktop-preview.jpg)
 
+## Task Solution Link!
+
+You can checkout the final deployed solution of this challenge on below link
+
+[https://https://single-price-grid-component.kjdeepak.now.sh/](https://https://single-price-grid-component.kjdeepak.now.sh/)
+
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
